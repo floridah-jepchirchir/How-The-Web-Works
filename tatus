@@ -1,0 +1,19 @@
+[33mcommit 2999a43136224a479d1eb10c92014561de783b95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 7a540c4 bb3c1ac
+Author: floridah-jepchirch <florida.jepchirchir@student.griffith.ie>
+Date:   Mon Nov 24 11:55:07 2025 +0000
+
+    Merge branch 'main' of https://github.com/floridah-jepchirchir/How-The-Web-Works
+    Merge remote-tracking branch 'main' of https://github.com/floridah-jepchirchir/How-The-Web-Works
+
+[33mcommit 7a540c4b1a688d519a4d6f2175901c94b2492262[m
+Author: floridah-jepchirch <florida.jepchirchir@student.griffith.ie>
+Date:   Mon Nov 24 11:54:47 2025 +0000
+
+    Add all files from How The Web Works folder
+
+[33mcommit bb3c1ac036da0d90709dccc18c844469d76b667c[m
+Author: floridah-jepchirch <florida.jepchirchir@student.griffith.ie>
+Date:   Mon Nov 24 11:22:22 2025 +0000
+
+    first commit
